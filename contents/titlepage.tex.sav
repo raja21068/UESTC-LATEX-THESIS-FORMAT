@@ -1,0 +1,29 @@
+% !Mode:: "TeX:UTF-8"
+
+\title{下肢外骨骼运动控制系统功率增大}
+\author{}
+\stuid{}
+\major{控制科学与控制工程}
+\school{自动化工程学院}
+
+\date{2017}{3}{5}
+
+%以下信息研究生填写，本科生可删除下面内容。
+\englishtitle{Preemptive Identification of Human Intentions for Maneuverable Power Augmentation Exoskeletons Control}} %论文的英文名
+\classnumber{K825.1-64}              %分类号
+\securityclassification{公开}        %密级
+\UDC{676.874}                        %《国际十进分类法UDC》的类号
+\majortype{Automation Engineering}			 %专业学位类别
+%\adviserB{}{}{}%第二指导教师
+%\adviserC{}{}{}%第二指导教师
+%\adviserD{}{}{}%第二指导教师
+\oraldefensedate{}{}{}         %论文答辩日期
+\awarddate{}{}{}               %学位授予日期
+\chairman{}                    %答辩委员会主席
+\appraiser{}   %评阅人
+\englishmajor{\bf Robotics Control}                      %专业英文名
+\englishauthor{\bf }                     %作者英文名
+\englishadvisor{\bf }                    %指导教师英文名
+\englishshcool{\bf School of Automation Engineering}                     % 学院英文名
+%\englishshcoolextraline{Engineering}  %如果学院英文名在英文扉页中一行显示不下，则自行断开，将后半部分写在这条命令中。
+

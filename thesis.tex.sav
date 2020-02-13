@@ -1,0 +1,17 @@
+% !Mode:: "TeX:UTF-8"
+\documentclass[doctor,english,listoffigures,listoftables]{uestcthesis}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\usepackage{rotating}
+\newtheorem{theorem}{Theorem}
+\begin{document}
+%\include{chapters/ch1}
+%\include{chapters/related}
+%\include{chapters/CKSABE}
+\include{chapters/BSKE}
+%\include{chapters/RABE}
+\include{chapters/PKFSE}
+\include{chapters/Summary}
+
+\end{document}
+

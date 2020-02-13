@@ -1,0 +1,485 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: contents/Cabstract.aux
+A level-1 auxiliary file: contents/Eabstract.aux
+A level-1 auxiliary file: chapters/ch1.aux
+A level-1 auxiliary file: chapters/ch2.aux
+A level-1 auxiliary file: chapters/ch4.aux
+A level-1 auxiliary file: chapters/ch5.aux
+A level-1 auxiliary file: chapters/ch6.aux
+A level-1 auxiliary file: chapters/Summary.aux
+The style file: uestcthesis.bst
+new.block is an unknown function---line 83 of file uestcthesis.bst
+remove.dots is an unknown function---line 455 of file uestcthesis.bst
+remove.dots is an unknown function---line 503 of file uestcthesis.bst
+remove.dots is an unknown function---line 555 of file uestcthesis.bst
+remove.dots is an unknown function---line 599 of file uestcthesis.bst
+format.pages is an unknown function---line 1139 of file uestcthesis.bst
+format.pages is an unknown function---line 1170 of file uestcthesis.bst
+format.pages is an unknown function---line 1179 of file uestcthesis.bst
+format.pages is an unknown function---line 1209 of file uestcthesis.bst
+format.pages is an unknown function---line 1218 of file uestcthesis.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+*publisher is an unknown function---line 1882 of file uestcthesis.bst
+*　* is an unknown function---line 1891 of file uestcthesis.bst
+Database file #1: contents/reference.bib
+Warning--entry type for "schmohl2007mobile" isn't style-file defined
+--line 13 of file contents/reference.bib
+Warning--entry type for "shamir1984identity" isn't style-file defined
+--line 60 of file contents/reference.bib
+Warning--entry type for "boneh2001identity" isn't style-file defined
+--line 69 of file contents/reference.bib
+Warning--entry type for "fang2006improvement" isn't style-file defined
+--line 96 of file contents/reference.bib
+Warning--entry type for "yoon2010new" isn't style-file defined
+--line 142 of file contents/reference.bib
+Warning--entry type for "islam2011comments" isn't style-file defined
+--line 160 of file contents/reference.bib
+Warning--entry type for "hou2009secure" isn't style-file defined
+--line 196 of file contents/reference.bib
+Repeated entry---line 205 of file contents/reference.bib
+ : @article{he2012efficient
+ :                         ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "al2003certificateless" isn't style-file defined
+--line 215 of file contents/reference.bib
+Repeated entry---line 223 of file contents/reference.bib
+ : @inproceedings{boneh2001identity
+ :                                 ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "jakobsson2001mutual" isn't style-file defined
+--line 241 of file contents/reference.bib
+Warning--entry type for "choon2003identity" isn't style-file defined
+--line 249 of file contents/reference.bib
+Warning--entry type for "b1993random" isn't style-file defined
+--line 257 of file contents/reference.bib
+Warning--entry type for "pointcheval1996security" isn't style-file defined
+--line 275 of file contents/reference.bib
+Warning--entry type for "scott2005computing" isn't style-file defined
+--line 293 of file contents/reference.bib
+Warning--entry type for "bertoni2006power" isn't style-file defined
+--line 301 of file contents/reference.bib
+Warning--entry type for "bertoni2006ecc" isn't style-file defined
+--line 309 of file contents/reference.bib
+Warning--entry type for "scott2006implementing" isn't style-file defined
+--line 317 of file contents/reference.bib
+Warning--entry type for "lee" isn't style-file defined
+--line 365 of file contents/reference.bib
+Warning--entry type for "galbraith2002implementing" isn't style-file defined
+--line 512 of file contents/reference.bib
+Warning--entry type for "chen2002certification" isn't style-file defined
+--line 530 of file contents/reference.bib
+Repeated entry---line 538 of file contents/reference.bib
+ : @inproceedings{al2003certificateless
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 663 of file contents/reference.bib
+ : @inproceedings{lee
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 675 of file contents/reference.bib
+ : @article{liao2009secure
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 685 of file contents/reference.bib
+ : @article{hsiang2009improvement
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 696 of file contents/reference.bib
+ : @article{sood2011secure
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 706 of file contents/reference.bib
+ : @article{li2012efficient
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 716 of file contents/reference.bib
+ : @article{han2012weaknesses
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 728 of file contents/reference.bib
+ : @article{Yoon2013
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 744 of file contents/reference.bib
+ : @article {Khan
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 757 of file contents/reference.bib
+ : @article {hanzhu
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 769 of file contents/reference.bib
+ : @article{hewang
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 780 of file contents/reference.bib
+ : @article{Shen2015
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 797 of file contents/reference.bib
+ : @article {Tseng2017
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "hassan2017" isn't style-file defined
+--line 810 of file contents/reference.bib
+Warning--entry type for "Canetti2001" isn't style-file defined
+--line 819 of file contents/reference.bib
+Warning--entry type for "LaMacchia2007" isn't style-file defined
+--line 832 of file contents/reference.bib
+Warning--entry type for "DecIov11" isn't style-file defined
+--line 849 of file contents/reference.bib
+I was expecting a `,' or a `}'---line 856 of file contents/reference.bib
+ :  
+ :  publisher = {IEEE},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 869 of file contents/reference.bib
+ : @article{Shen2015
+ :                  ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "hassan2016provably" isn't style-file defined
+--line 884 of file contents/reference.bib
+Warning--entry type for "Chow2005" isn't style-file defined
+--line 902 of file contents/reference.bib
+Warning--entry type for "sui2005separable" isn't style-file defined
+--line 919 of file contents/reference.bib
+Warning--entry type for "herranz2004new" isn't style-file defined
+--line 930 of file contents/reference.bib
+Warning--entry type for "bellare1993random" isn't style-file defined
+--line 947 of file contents/reference.bib
+Warning--entry type for "fiat1986prove" isn't style-file defined
+--line 955 of file contents/reference.bib
+Warning--entry type for "bellare2004uninstantiable" isn't style-file defined
+--line 973 of file contents/reference.bib
+Warning--entry type for "rivest2001leak" isn't style-file defined
+--line 981 of file contents/reference.bib
+You can't pop an empty literal stack for entry amin2015design
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry schmohl2007mobile
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry schmohl2007mobile
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry schmohl2007mobile
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry cao2016secure
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry diffie1976new
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry rivest1978method
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry elgamal1985public
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry shamir1984identity
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry shamir1984identity
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry shamir1984identity
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry boneh2001identity
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry boneh2001identity
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry boneh2001identity
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry boneh2003identity
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry giri2006improved
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry fang2006improvement
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry fang2006improvement
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry das2006novel
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry tseng2008pairing
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry goriparthi2009improved
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry wu2010efficient
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry yoon2010new
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry yoon2010new
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry yoon2010new
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry debiao2012id
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry islam2011comments
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry islam2011comments
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry islam2011comments
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry he2012efficient
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry tsai2015provably
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry wu2016efficient
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry wu2016efficient
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry hou2009secure
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry hou2009secure
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry hou2009secure
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry al2003certificateless
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry al2003certificateless
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry al2003certificateless
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry boneh2004short
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry jakobsson2001mutual
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry jakobsson2001mutual
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry jakobsson2001mutual
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry choon2003identity
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry choon2003identity
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry choon2003identity
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry b1993random
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry b1993random
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry b1993random
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry he2013new
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry pointcheval1996security
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry pointcheval1996security
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry pointcheval1996security
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry pointcheval2000security
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry scott2005computing
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry scott2005computing
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry scott2005computing
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry bertoni2006power
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry bertoni2006power
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry bertoni2006power
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry bertoni2006ecc
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry bertoni2006ecc
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry bertoni2006ecc
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry scott2006implementing
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry scott2006implementing
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry scott2006implementing
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry li2001remote
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry lin2003new
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry tsaur2004smart
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry juang2004efficient
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry lee
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry lee
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry lee
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry liao2009secure
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry hsiang2009improvement
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry sood2011secure
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry li2012efficient
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry han2012weaknesses
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Yoon2013
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Khan
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry hanzhu
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry hewang
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Shen2015
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Tseng2017
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry galbraith2002implementing
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry galbraith2002implementing
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry galbraith2002implementing
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry menezes1993reducing
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry chen2002certification
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry chen2002certification
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry chen2002certification
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry shen2015new
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry lihua
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry jiang2015anonymous
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Lin2015
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry liao2013novel
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry he2016efficient
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry zhu2015provable
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry jangirala2017
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry tsaiwei2015
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Irshad2016
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry pleva
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry pleva
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry juang
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry hassan2017
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry hassan2017
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry hassan2017
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry Canetti2001
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Canetti2001
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry LaMacchia2007
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry DecIov11
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry DecIov11
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Wu2017
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Wu2017
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry d2013design
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry hassan2016provably
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry hassan2016provably
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry hassan2016provably
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry shim2013eibas
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry Chow2005
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry sui2005separable
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry sui2005separable
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry sui2005separable
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry herranz2004new
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry herranz2004new
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry herranz2004new
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry hassan2017ef
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry hassan2017ef
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry bellare1993random
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry bellare1993random
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry bellare1993random
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry fiat1986prove
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry fiat1986prove
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry fiat1986prove
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry canetti2004random
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry bellare2004uninstantiable
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry bellare2004uninstantiable
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry bellare2004uninstantiable
+while executing---line 2628 of file uestcthesis.bst
+`address' is a missing field, not a string, for entry rivest2001leak
+while executing---line 2628 of file uestcthesis.bst
+`publisher' is a missing field, not a string, for entry rivest2001leak
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry rivest2001leak
+while executing---line 2628 of file uestcthesis.bst
+"\" can't start a style-file command---line 2637 of file uestcthesis.bst
+ : 
+ : \endinput
+(Error may have been on previous line)
+You've used 82 entries,
+            5798 wiz_defined-function locations,
+            1582 strings with 23464 characters,
+and the built_in function-call counts, 29308 in all, are:
+= -- 3026
+> -- 905
+< -- 73
++ -- 505
+- -- 208
+* -- 2284
+:= -- 4074
+add.period$ -- 164
+call.type$ -- 82
+change.case$ -- 82
+chr.to.int$ -- 75
+cite$ -- 82
+duplicate$ -- 1156
+empty$ -- 2723
+format.name$ -- 431
+if$ -- 6614
+int.to.chr$ -- 8
+int.to.str$ -- 83
+missing$ -- 0
+newline$ -- 418
+num.names$ -- 164
+pop$ -- 390
+preamble$ -- 1
+purify$ -- 82
+quote$ -- 0
+skip$ -- 1151
+stack$ -- 0
+substring$ -- 2230
+swap$ -- 344
+text.length$ -- 30
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 326
+warning$ -- 0
+while$ -- 258
+width$ -- 0
+write$ -- 1339
+(There were 171 error messages)

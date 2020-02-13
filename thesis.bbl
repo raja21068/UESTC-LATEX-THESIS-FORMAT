@@ -1,0 +1,731 @@
+\begin{thebibliography}{82}\setlength{\baselineskip}{20bp plus 2bp minus
+  1bp}\setlength{\itemsep}{0bp}\setlength{\parskip}{0pt}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Amin and
+  Biswas(2015)]{amin2015design}
+R.~Amin, G.~Biswas.
+\newblock Design and analysis of bilinear pairing based mutual authentication
+  and key agreement protocol usable in multi-server environment[J].
+\newblock Wireless Personal Communications, 2015, 84(1):439--462
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Schmohl and
+  Baumgarten(2007)]{schmohl2007mobile}
+R.~Schmohl, U.~Baumgarten.
+\newblock Mobile services based on client-server or p2p architectures facing
+  issues of context-awareness and heterogeneous environments[M].
+\newblock 2007, 578--584
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Cao and
+  Ge(2016)]{cao2016secure}
+L.~Cao, W.~Ge.
+\newblock A Secure and Efficient Multi-Factor Mutual Certificateless
+  Authentication with Key Agreement Protocol for Mobile Client-Server
+  Environment on ECC without the third-party[J].
+\newblock International Journal of Security and Its Applications, 2016,
+  10(10):215--226
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Diffie and
+  Hellman(1976)]{diffie1976new}
+W.~Diffie, M.~Hellman.
+\newblock New directions in cryptography[J].
+\newblock IEEE transactions on Information Theory, 1976, 22(6):644--654
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Rivest et
+  al.(1978)]{rivest1978method}
+R.~L. Rivest, A.~Shamir, L.~Adleman.
+\newblock A method for obtaining digital signatures and public-key
+  cryptosystems[J].
+\newblock Communications of the ACM, 1978, 21(2):120--126
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[ElGamal(1985)]{elgamal1985public}
+T.~ElGamal.
+\newblock A public key cryptosystem and a signature scheme based on discrete
+  logarithms[J].
+\newblock IEEE transactions on information theory, 1985, 31(4):469--472
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Shamir(1984)]{shamir1984identity}
+A.~Shamir.
+\newblock Identity-based cryptosystems and signature schemes[M].
+\newblock 1984, 47--53
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Boneh and
+  Franklin(2001)]{boneh2001identity}
+D.~Boneh, M.~Franklin.
+\newblock Identity-based encryption from the Weil pairing[M].
+\newblock 2001, 213--229
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Boneh and
+  Franklin(2003)]{boneh2003identity}
+D.~Boneh, M.~Franklin.
+\newblock Identity-based encryption from the Weil pairing[J].
+\newblock SIAM journal on computing, 2003, 32(3):586--615
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Giri and
+  Srivastava(2006)]{giri2006improved}
+D.~Giri, P.~Srivastava.
+\newblock An Improved Remote User Authentication Scheme with Smart Cards using
+  Bilinear Pairings.[J].
+\newblock IACR Cryptology ePrint Archive, 2006, 2006:274
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Fang and
+  Huang(2006)]{fang2006improvement}
+G.~Fang, G.~Huang.
+\newblock Improvement of recently proposed remote client authentication
+  protocols[M].
+\newblock 2006
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Das et
+  al.(2006)]{das2006novel}
+M.~L. Das, A.~Saxena, V.~P. Gulati, et al.
+\newblock A novel remote user authentication scheme using bilinear pairings[J].
+\newblock Computers \& Security, 2006, 25(3):184--189
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Tseng et
+  al.(2008)]{tseng2008pairing}
+Y.-M. Tseng, T.-Y. Wu, J.-D. Wu.
+\newblock A pairing-based user authentication scheme for wireless clients with
+  smart cards[J].
+\newblock Informatica, 2008, 19(2):285--302
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Goriparthi et
+  al.(2009)]{goriparthi2009improved}
+T.~Goriparthi, M.~L. Das, A.~Saxena.
+\newblock An improved bilinear pairing based remote user authentication
+  scheme[J].
+\newblock Computer Standards \& Interfaces, 2009, 31(1):181--185
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Wu and
+  Tseng(2010)]{wu2010efficient}
+T.-Y. Wu, Y.-M. Tseng.
+\newblock An efficient user authentication and key exchange protocol for mobile
+  client--server environment[J].
+\newblock Computer Networks, 2010, 54(9):1520--1530
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Yoon and
+  Yoo(2010)]{yoon2010new}
+E.~Yoon, K.~Yoo.
+\newblock A new efficient ID-based user authentication and key exchange
+  protocol for mobile client-server environment[M].
+\newblock 2010, 1--4
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Debiao et
+  al.(2012)]{debiao2012id}
+H.~Debiao, C.~Jianhua, H.~Jin.
+\newblock An ID-based client authentication with key agreement protocol for
+  mobile client--server environment on ECC with provable security[J].
+\newblock Information Fusion, 2012, 13(3):223--230
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Islam and
+  Biswas(2011)]{islam2011comments}
+S.~H. Islam, G.~Biswas.
+\newblock Comments on ID-based client authentication with key agreement
+  protocol on ECC for mobile client-server environment[M].
+\newblock 2011, 628--635
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[He(2012)]{he2012efficient}
+D.~He.
+\newblock An efficient remote user authentication and key agreement protocol
+  for mobile client--server environment from pairings[J].
+\newblock Ad Hoc Networks, 2012, 10(6):1009--1016
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Tsai and
+  Lo(2015){\natexlab{a}}]{tsai2015provably}
+J.-L. Tsai, N.-W. Lo.
+\newblock Provably secure and efficient anonymous ID-based authentication
+  protocol for mobile devices using bilinear pairings[J].
+\newblock Wireless Personal Communications, 2015, 83(2):1273--1286
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Wu et
+  al.(2016)]{wu2016efficient}
+L.~Wu, Y.~Zhang, Y.~Xie, et al.
+\newblock An Efficient and Secure Identity-Based Authentication and Key
+  Agreement Protocol with User Anonymity for Mobile Devices[J].
+\newblock Wireless Personal Communications, 2016:1--17
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Hou and
+  Xu(2009)]{hou2009secure}
+M.-b. Hou, Q.-l. Xu.
+\newblock Secure certificateless-based authenticated key agreement protocol in
+  the client-server setting[M].
+\newblock 2009, 960--965
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Al-Riyami and
+  Paterson(2003)]{al2003certificateless}
+S.~S. Al-Riyami, K.~G. Paterson.
+\newblock Certificateless public key cryptography[M].
+\newblock 2003, 452--473
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Boneh et
+  al.(2004)]{boneh2004short}
+D.~Boneh, B.~Lynn, H.~Shacham.
+\newblock Short signatures from the Weil pairing[J].
+\newblock Journal of cryptology, 2004, 17(4):297--319
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Jakobsson and
+  Pointcheval(2001)]{jakobsson2001mutual}
+M.~Jakobsson, D.~Pointcheval.
+\newblock Mutual authentication for low-power mobile devices[M].
+\newblock 2001, 178--195
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Choon and
+  Cheon(2003)]{choon2003identity}
+J.~C. Choon, J.~H. Cheon.
+\newblock An identity-based signature from gap Diffie-Hellman groups[M].
+\newblock 2003, 18--30
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Bellare and
+  Rogaway(1993){\natexlab{a}}]{b1993random}
+M.~Bellare, P.~Rogaway.
+\newblock Random oracles are practical: A paradigm for designing efficient
+  protocols[M].
+\newblock 1993, 62--73
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[He et
+  al.(2013)]{he2013new}
+D.~He, B.~Huang, J.~Chen.
+\newblock New certificateless short signature scheme[J].
+\newblock IET Information Security, 2013, 7(2):113--117
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Pointcheval
+  and Stern(1996)]{pointcheval1996security}
+D.~Pointcheval, J.~Stern.
+\newblock Security proofs for signature schemes[M].
+\newblock 1996, 387--398
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Pointcheval
+  and Stern(2000)]{pointcheval2000security}
+D.~Pointcheval, J.~Stern.
+\newblock Security arguments for digital signatures and blind signatures[J].
+\newblock Journal of cryptology, 2000, 13(3):361--396
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Scott(2005)]{scott2005computing}
+M.~Scott.
+\newblock Computing the Tate pairing[M].
+\newblock 2005, 293--304
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Bertoni et
+  al.(2006){\natexlab{a}}]{bertoni2006power}
+G.~Bertoni, L.~Breveglieri, M.~Venturi.
+\newblock Power aware design of an elliptic curve coprocessor for 8 bit
+  platforms[M].
+\newblock 2006, 5--341
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Bertoni et
+  al.(2006){\natexlab{b}}]{bertoni2006ecc}
+G.~Bertoni, L.~Breveglieri, M.~Venturi.
+\newblock ECC hardware coprocessors for 8-bit systems and power consumption
+  considerations[M].
+\newblock 2006, 573--574
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Scott et
+  al.(2006)]{scott2006implementing}
+M.~Scott, N.~Costigan, W.~Abdulwahab.
+\newblock Implementing cryptographic pairings on smartcards[M].
+\newblock 2006, 134--147
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Li et
+  al.(2001){\natexlab{a}}]{li2001remote}
+L.-H. Li, L.-C. Lin, M.-S. Hwang.
+\newblock A remote password authentication scheme for multiserver architecture
+  using neural networks[J].
+\newblock IEEE Transactions on Neural Networks, 2001, 12(6):1498--1504
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Lin et
+  al.(2003)]{lin2003new}
+I.-C. Lin, M.-S. Hwang, L.-H. Li.
+\newblock A new remote user authentication scheme for multi-server
+  architecture[J].
+\newblock Future Generation Computer Systems, 2003, 19(1):13--22
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Tsaur et
+  al.(2004)]{tsaur2004smart}
+W.-J. Tsaur, C.-C. Wu, W.-B. Lee.
+\newblock A smart card-based remote scheme for password authentication in
+  multi-server Internet services[J].
+\newblock Computer Standards \& Interfaces, 2004, 27(1):39--51
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Juang(2004){\natexlab{a}}]{juang2004efficient}
+W.-S. Juang.
+\newblock Efficient multi-server password authenticated key agreement using
+  smart cards[J].
+\newblock IEEE Transactions on Consumer Electronics, 2004, 50(1):251--255
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Chang and
+  Lee(2004)]{lee}
+C.-C. Chang, J.-S. Lee.
+\newblock An efficient and secure multi-server password authentication scheme
+  using smart cards[M].
+\newblock 2004, 417--422
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Liao and
+  Wang(2009)]{liao2009secure}
+Y.-P. Liao, S.-S. Wang.
+\newblock A secure dynamic ID based remote user authentication scheme for
+  multi-server environment[J].
+\newblock Computer Standards \& Interfaces, 2009, 31(1):24--29
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Hsiang and
+  Shih(2009)]{hsiang2009improvement}
+H.-C. Hsiang, W.-K. Shih.
+\newblock Improvement of the secure dynamic ID based remote user authentication
+  scheme for multi-server environment[J].
+\newblock Computer Standards \& Interfaces, 2009, 31(6):1118--1123
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Sood et
+  al.(2011)]{sood2011secure}
+S.~K. Sood, A.~K. Sarje, K.~Singh.
+\newblock A secure dynamic identity based authentication protocol for
+  multi-server architecture[J].
+\newblock Journal of Network and Computer Applications, 2011, 34(2):609--618
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Li et
+  al.(2012)]{li2012efficient}
+X.~Li, Y.~Xiong, J.~Ma, et al.
+\newblock An efficient and security dynamic identity based authentication
+  protocol for multi-server architecture using smart cards[J].
+\newblock Journal of Network and Computer Applications, 2012, 35(2):763--769
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Han(2012)]{han2012weaknesses}
+W.~Han.
+\newblock Weaknesses of a dynamic identity based authentication protocol for
+  multi-server architecture[J].
+\newblock CoRR, 2012, abs/1201.0883
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Yoon and
+  Yoo(2013)]{Yoon2013}
+E.-J. Yoon, K.-Y. Yoo.
+\newblock Robust biometrics-based multi-server authentication with key
+  agreement scheme for smart cards on elliptic curve cryptosystem[J].
+\newblock The Journal of Supercomputing, 2013, 63(1):235--255
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Khan and
+  He(2012)]{Khan}
+M.~K. Khan, D.~He.
+\newblock A new dynamic identity-based authentication protocol for multi-server
+  environment using elliptic curve cryptography[J].
+\newblock Security and Communication Networks, 2012, 5(11):1260--1266
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Han and
+  Zhu(2014)]{hanzhu}
+W.~Han, Z.~Zhu.
+\newblock An ID-based mutual authentication with key agreement protocol for
+  multiserver environment on elliptic curve cryptosystem[J].
+\newblock International Journal of Communication Systems, 2014,
+  27(8):1173--1185
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[He and
+  Wang(2015)]{hewang}
+D.~He, D.~Wang.
+\newblock Robust Biometrics-Based Authentication Scheme for Multiserver
+  Environment[J].
+\newblock IEEE Systems Journal, 2015, 9(3):816--823
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Shen et
+  al.(2015){\natexlab{a}}]{Shen2015}
+H.~Shen, C.~Gao, D.~He, et al.
+\newblock New biometrics-based authentication scheme for multi-server
+  environment in critical systems[J].
+\newblock Journal of Ambient Intelligence and Humanized Computing, 2015,
+  6(6):825--834
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Tseng et
+  al.(2017)]{Tseng2017}
+Y.-M. Tseng, S.-S. Huang, M.-L. You.
+\newblock Strongly secure ID-based authenticated key agreement protocol for
+  mobile multi-server environments[J].
+\newblock International Journal of Communication Systems, 2017,
+  30(11):e3251--n/a
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Galbraith et
+  al.(2002)]{galbraith2002implementing}
+S.~D. Galbraith, K.~Harrison, D.~Soldera.
+\newblock Implementing the Tate pairing[M].
+\newblock 2002, 324--337
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Menezes et
+  al.(1993)]{menezes1993reducing}
+A.~J. Menezes, T.~Okamoto, S.~A. Vanstone.
+\newblock Reducing elliptic curve logarithms to logarithms in a finite
+  field[J].
+\newblock iEEE Transactions on information Theory, 1993, 39(5):1639--1646
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Chen et
+  al.(2002)]{chen2002certification}
+L.~Chen, K.~Harrison, A.~Moss, et al.
+\newblock Certification of public keys within an identity based system[M].
+\newblock 2002, 322--333
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Shen et
+  al.(2015){\natexlab{b}}]{shen2015new}
+H.~Shen, C.~Gao, D.~He, et al.
+\newblock New biometrics-based authentication scheme for multi-server
+  environment in critical systems[J].
+\newblock Journal of Ambient Intelligence and Humanized Computing, 2015,
+  6(6):825--834
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Li et
+  al.(2001){\natexlab{b}}]{lihua}
+L.-H. Li, L.-C. Lin, M.-S. Hwang.
+\newblock A remote password authentication scheme for multiserver architecture
+  using neural networks[J].
+\newblock IEEE Transactions on Neural Networks, 2001, 12(6):1498--1504
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Jiang et
+  al.(2015)]{jiang2015anonymous}
+P.~Jiang, Q.~Wen, W.~Li, et al.
+\newblock An anonymous and efficient remote biometrics user authentication
+  scheme in a multi server environment[J].
+\newblock Frontiers of Computer Science, 2015, 9(1):142--156
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Lin et
+  al.(2015)]{Lin2015}
+H.~Lin, F.~Wen, C.~Du.
+\newblock An improved anonymous multi-server authenticated key agreement scheme
+  using smart cards and biometrics[J].
+\newblock Wireless Personal Communications, 2015, 84(4):2351--2362
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Liao and
+  Hsiao(2013)]{liao2013novel}
+Y.-P. Liao, C.-M. Hsiao.
+\newblock A novel multi-server remote user authentication scheme using
+  self-certified public keys for mobile clients[J].
+\newblock Future Generation Computer Systems, 2013, 29(3):886--900
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[He et
+  al.(2016)]{he2016efficient}
+D.~He, S.~Zeadally, N.~Kumar, et al.
+\newblock Efficient and anonymous mobile user authentication protocol using
+  self-certified public key cryptography for multi-server architectures[J].
+\newblock IEEE Transactions on Information Forensics and Security, 2016,
+  11(9):2052--2064
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Zhu(2015)]{zhu2015provable}
+H.~Zhu.
+\newblock A provable one-way authentication key agreement scheme with user
+  anonymity for multi-server environment[J].
+\newblock KSII Transactions on Internet and Information Systems (TIIS), 2015,
+  9(2):811--829
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Jangirala et
+  al.(2017)]{jangirala2017}
+S.~Jangirala, S.~Mukhopadhyay, A.~K. Das.
+\newblock A Multi-server environment with secure and efficient remote user
+  authentication scheme based on dynamic ID using smart cards[J].
+\newblock Wireless Personal Communications, 2017, 95(3):2735--2767
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Tsai and
+  Lo(2015){\natexlab{b}}]{tsaiwei2015}
+J.-L. Tsai, N.-W. Lo.
+\newblock A chaotic map-based anonymous multi-server authenticated key
+  agreement protocol using smart card[J].
+\newblock International Journal of Communication Systems, 2015,
+  28(13):1955--1963
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Irshad et
+  al.(2016)]{Irshad2016}
+A.~Irshad, M.~Sher, S.~A. Chaudhary, et al.
+\newblock An efficient and anonymous multi-server authenticated key agreement
+  based on chaotic map without engaging Registration Centre[J].
+\newblock The Journal of Supercomputing, 2016, 72(4):1623--1644
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Pleva(2012)]{pleva}
+P.~Pleva.
+\newblock A Revised Classification of Anonymity[J].
+\newblock arXiv preprint arXiv:1211.5613, 2012
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Juang(2004){\natexlab{b}}]{juang}
+W.-S. Juang.
+\newblock Efficient multi-server password authenticated key agreement using
+  smart cards[J].
+\newblock IEEE Transactions on Consumer Electronics, 2004, 50(1):251--255
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Hassan et
+  al.(2017){\natexlab{a}}]{hassan2017}
+A.~Hassan, N.~Eltayieb, R.~Elhabob, et al.
+\newblock A Provably Secure Certificateless User Authentication Protocol for
+  Mobile Client-Server Environment[M].
+\newblock 2017, 592--602
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Canetti and
+  Krawczyk(2001)]{Canetti2001}
+R.~Canetti, H.~Krawczyk.
+\newblock Analysis of Key-Exchange Protocols and Their Use for Building Secure
+  Channels[M].
+\newblock Springer, 2001, 453--474
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[LaMacchia et
+  al.(2007)]{LaMacchia2007}
+B.~LaMacchia, K.~Lauter, A.~Mityagin.
+\newblock Stronger Security of Authenticated Key Exchange[M].
+\newblock Berlin, Heidelberg: Springer Berlin Heidelberg, 2007, 1--16
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[{De Caro} and
+  Iovino(2011)]{DecIov11}
+A.~{De Caro}, V.~Iovino.
+\newblock jPBC: Java pairing based cryptography[M].
+\newblock 2011, 850--855
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Wu et
+  al.(2017)]{Wu2017}
+F.~Wu, L.~Xu, S.~Kumari, et al.
+\newblock A privacy-preserving and provable user authentication scheme for
+  wireless sensor networks based on Internet of Things security[J].
+\newblock Journal of Ambient Intelligence and Humanized Computing, 2017
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Daemen and
+  Rijmen(2013)]{d2013design}
+J.~Daemen, V.~Rijmen.
+\newblock The design of Rijndael: AES-the advanced encryption standard[M].
+\newblock Springer Science \& Business Media, 2013
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Hassan et
+  al.(2016)]{hassan2016provably}
+A.~Hassan, N.~Eltayieb, R.~Elhabob, et al.
+\newblock A Provably Secure Certificateless User Authentication Protocol for
+  Mobile Client-Server Environment[M].
+\newblock 2016, 592--602
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Shim et
+  al.(2013)]{shim2013eibas}
+K.-A. Shim, Y.-R. Lee, C.-M. Park.
+\newblock EIBAS: An efficient identity-based broadcast authentication scheme in
+  wireless sensor networks[J].
+\newblock Ad Hoc Networks, 2013, 11(1):182--189
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Chow et
+  al.(2005)]{Chow2005}
+S.~S.~M. Chow, S.-M. Yiu, L.~C.~K. Hui.
+\newblock Efficient Identity Based Ring Signature[M].
+\newblock Berlin, Heidelberg: Springer Berlin Heidelberg, 2005, 499--512
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Sui et
+  al.(2005)]{sui2005separable}
+A.~Sui, S.~S.~M. Chow, L.~C.~K. Hui, et al.
+\newblock Separable and Anonymous Identity-Based Key Issuing[M].
+\newblock 2005, 275--279
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Herranz and
+  S{\'a}ez(2004)]{herranz2004new}
+J.~Herranz, G.~S{\'a}ez.
+\newblock New identity-based ring signature schemes[M].
+\newblock 2004, 27--39
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Hassan et
+  al.(2017){\natexlab{b}}]{hassan2017ef}
+A.~Hassan, N.~Eltayieb, R.~Elhabob, et al.
+\newblock An efficient certificateless user authentication and key exchange
+  protocol for client-server environment[J].
+\newblock Journal of Ambient Intelligence and Humanized Computing, 2017:1--15
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Bellare and
+  Rogaway(1993){\natexlab{b}}]{bellare1993random}
+M.~Bellare, P.~Rogaway.
+\newblock Random oracles are practical: A paradigm for designing efficient
+  protocols[M].
+\newblock 1993, 62--73
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Fiat and
+  Shamir(1986)]{fiat1986prove}
+A.~Fiat, A.~Shamir.
+\newblock How to prove yourself: Practical solutions to identification and
+  signature problems[M].
+\newblock 1986, 186--194
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Canetti et
+  al.(2004)]{canetti2004random}
+R.~Canetti, O.~Goldreich, S.~Halevi.
+\newblock The random oracle methodology, revisited[J].
+\newblock Journal of the ACM (JACM), 2004, 51(4):557--594
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Bellare et
+  al.(2004)]{bellare2004uninstantiable}
+M.~Bellare, A.~Boldyreva, A.~Palacio.
+\newblock An uninstantiable random-oracle-model scheme for a hybrid-encryption
+  problem[M].
+\newblock 2004, 171--188
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Rivest et
+  al.(2001)]{rivest2001leak}
+R.~L. Rivest, A.~Shamir, Y.~Tauman.
+\newblock How to leak a secret[M].
+\newblock 2001, 552--565
+
+\end{thebibliography}
